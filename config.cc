@@ -1,14 +1,4 @@
-#include "openvslam/config.h"
-#include "openvslam/camera/perspective.h"
-#include "openvslam/camera/fisheye.h"
-#include "openvslam/camera/equirectangular.h"
-#include "openvslam/camera/radial_division.h"
-#include "openvslam/util/string.h"
-
-#include <iostream>
-#include <memory>
-
-#include <spdlog/spdlog.h>
+git2
 
 namespace openvslam {
 
