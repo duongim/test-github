@@ -1,9 +1,4 @@
-#include "openvslam/config.h"
-#include "openvslam/camera/perspective.h"
-#include "openvslam/camera/fisheye.h"
-#include "openvslam/camera/equirectangular.h"
-#include "openvslam/camera/radial_division.h"
-#include "openvslam/util/string.h"
+test
 
 #include <iostream>
 #include <memory>
